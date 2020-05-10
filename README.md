@@ -1,6 +1,6 @@
 # rick_and_morty
 
-A new Flutter project.
+Just for fun. An MVVM with Clean Architecture project made with Flutter
 
 ## Getting Started
 
